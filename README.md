@@ -1,5 +1,8 @@
 # Libra.py
 Library management est une appli desktop qui permet de bien gérer les livres d'une bibliotheque(ajout, suppression et emprunt d'un livre)
+L'application desktop Library Management facilite la tache a la gestion des livres d'un bibliotheque.
+
+Il est costruit a partir de la module tkinter.
 On utilise JSON pour nous aider a charger les données.
 
 Il y'a une photo utilisé comme image de fond appelé "bilio.png"
